@@ -1,0 +1,14 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\users\\mille\\ideaprojects\\timejump\\timejump\\source\\timejump\\timejump.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\mille\\ideaprojects\\timejump\\timejump\\intermediate\\build\\win64\\timejumpeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\mille\\ideaprojects\\timejump\\timejump\\intermediate\\build\\win64\\unrealeditor\\development\\timejump\\definitions.timejump.h",
+            "c:\\users\\mille\\ideaprojects\\timejump\\timejump\\source\\timejump\\timejump.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

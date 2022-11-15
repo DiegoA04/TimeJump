@@ -1,0 +1,17 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-TimeJump.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\mille\IdeaProjects\TimeJump\TimeJump\Intermediate\Build\Win64\TimeJumpEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\mille\IdeaProjects\TimeJump\TimeJump\Intermediate\Build\Win64\UnrealEditor\Development\TimeJump\TimeJump.cpp.obj"
+"C:\Users\mille\IdeaProjects\TimeJump\TimeJump\Intermediate\Build\Win64\UnrealEditor\Development\TimeJump\TimeJumpCharacter.cpp.obj"
+"C:\Users\mille\IdeaProjects\TimeJump\TimeJump\Intermediate\Build\Win64\UnrealEditor\Development\TimeJump\TimeJumpGameMode.cpp.obj"
+"C:\Users\mille\IdeaProjects\TimeJump\TimeJump\Intermediate\Build\Win64\UnrealEditor\Development\TimeJump\TimeJump.init.gen.cpp.obj"
+"C:\Users\mille\IdeaProjects\TimeJump\TimeJump\Intermediate\Build\Win64\UnrealEditor\Development\TimeJump\TimeJumpCharacter.gen.cpp.obj"
+"C:\Users\mille\IdeaProjects\TimeJump\TimeJump\Intermediate\Build\Win64\UnrealEditor\Development\TimeJump\TimeJumpGameMode.gen.cpp.obj"
+"C:\Users\mille\IdeaProjects\TimeJump\TimeJump\Intermediate\Build\Win64\UnrealEditor\Development\TimeJump\Default.rc2.res"
+/OUT:"C:\Users\mille\IdeaProjects\TimeJump\TimeJump\Intermediate\Build\Win64\UnrealEditor\Development\TimeJump\UnrealEditor-TimeJump.lib"

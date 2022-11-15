@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "TimeJump",
+			"Path": "C:\\Users\\mille\\IdeaProjects\\TimeJump\\TimeJump\\Source\\TimeJump.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "TimeJumpEditor",
+			"Path": "C:\\Users\\mille\\IdeaProjects\\TimeJump\\TimeJump\\Source\\TimeJumpEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

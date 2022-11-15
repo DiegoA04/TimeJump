@@ -1,0 +1,19 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\users\\mille\\ideaprojects\\timejump\\timejump\\intermediate\\build\\win64\\unrealeditor\\inc\\timejump\\timejumpgamemode.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\mille\\ideaprojects\\timejump\\timejump\\intermediate\\build\\win64\\timejumpeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\mille\\ideaprojects\\timejump\\timejump\\intermediate\\build\\win64\\unrealeditor\\development\\timejump\\definitions.timejump.h",
+            "c:\\users\\mille\\ideaprojects\\timejump\\timejump\\source\\timejump\\timejumpgamemode.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\serverstatreplicator.generated.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\gamemodebase.generated.h",
+            "c:\\users\\mille\\ideaprojects\\timejump\\timejump\\intermediate\\build\\win64\\unrealeditor\\inc\\timejump\\timejumpgamemode.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
